@@ -16,7 +16,7 @@ namespace ConsoleApp1
             int i;
 
             Console.CursorVisible = false; 
-            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.ForegroundColor = ConsoleColor.Red;
 
             Snail snail = new Snail();
             //Snail snail = new Snail("  ____@_ö", " _______", 300 ,30);
